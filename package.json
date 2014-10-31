@@ -1,7 +1,7 @@
 {
   "name": "grunt-html2amd",
   "description": "A task to convert HTML templates to AMD javascript",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "homepage": "https://github.com/rdesoky/grunt-html2amd",
   "author": {
     "name": "Ramy Eldesoky",
@@ -36,6 +36,6 @@
     "grunt": "~0.4.5"
   },
   "keywords": [
-    "gruntplugin"
+    "gruntplugin", "html2js", "templates", "html_compiler", "no_ajax"
   ]
 }
