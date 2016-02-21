@@ -33,9 +33,13 @@
     "grunt": "~0.4.5"
   },
   "peerDependencies": {
-    "grunt": "~0.4.5"
+    "grunt": ">=0.4.0"
   },
   "keywords": [
-    "gruntplugin", "html2js", "templates", "html_compiler", "no_ajax"
+    "gruntplugin",
+    "html2js",
+    "templates",
+    "html_compiler",
+    "no_ajax"
   ]
 }
